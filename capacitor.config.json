@@ -1,0 +1,9 @@
+{
+  "appId": "com.doechatgi.preview",
+  "appName": "되찾기 미리보기",
+  "webDir": "www",
+  "server": {
+    "url": "https://chiseongan.github.io/doechatgi-preview/",
+    "allowNavigation": ["chiseongan.github.io", "*.trycloudflare.com"]
+  }
+}
